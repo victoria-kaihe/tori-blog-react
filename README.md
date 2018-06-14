@@ -14,3 +14,5 @@ To start the development server with a watcher that rebuilds your code, run `yar
 
 Additional components should be placed in `client/components`.
 
+# tori-blog-react
+Rebuilding victoria-kaihe.github.io using React
