@@ -16,3 +16,9 @@ Additional components should be placed in `client/components`.
 
 # tori-blog-react
 Rebuilding victoria-kaihe.github.io using React
+
+To run - clone repo, <code>cd</code> into it, and run <code>yarn dev</code> in the terminal
+
+OR
+
+If you're like me and have Windows problems that you can't be bothered finding a proper solution for, open two terminals and run <code>yarn dev</code> in one, and <code>yarn webpack</code> in the other.
